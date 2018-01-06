@@ -1,0 +1,2 @@
+This string
+has a new line
